@@ -12,6 +12,5 @@ Note that the training data or the trained model is not included in this repo du
 - `src/`: Source files to the data preparation.
 
 ## Files:
-- `download_config.yaml`: Configuration file for downloading environmental data, including spatial and temporal boundaries.
 - `nn_classifier.ipynb`: Main notebook, training the MLP classifier and generating explanations with SynXAI.
 - `baselines.ipynb`: Notebook containing baseline models to compare against performance of the MLP. 
