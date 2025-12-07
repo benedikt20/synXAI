@@ -1,0 +1,17 @@
+**/.DS_Store
+**/__pycache__
+
+# training data (subject to NDA)
+rawdata/get_data.ipynb
+rawdata/hafro_demersal.csv
+data/pok_2010_2025_augmented.csv
+data/pok_2010_2025.csv
+
+# models (due to NDA)
+models/
+
+# figures directory (generated automatically)
+figures/
+
+# features (downloaded automatically by config), large files
+rawdata/copernicus/
