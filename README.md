@@ -1,7 +1,8 @@
 # synXAI
 Synergistic Explanations for Neural Networks.
 
-Note that the training data is not included in this repo due to NDA restrictions. All notebooks include outputs of cells that shows the training process and results.
+Note that the training data or the trained model is not included in this repo due to NDA restrictions. All notebooks include outputs of cells that shows the training process and results.
+- This repo has a toy dataset, that can be used to test the code and reproduce (toy) results. The toy dataset generation is in `data_prep_notebooks/make_toy_dataset.ipynb`.
 
 
 ## Folder structure:
